@@ -29,10 +29,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nodejs,express,postgres,prisma,docker,git,github,vercel" />
 </p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebastian0224&theme=tokyonight" alt="streak-stats" />
-</p>
