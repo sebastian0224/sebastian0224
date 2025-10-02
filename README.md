@@ -14,7 +14,7 @@
   <a href="https://github.com/sebastian0224" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://sebastian-osorio-portfolio.vercel.app/" target="_blank">
+  <a href="https://sebastian-osorio.xyz/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
